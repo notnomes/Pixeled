@@ -1,2 +1,2 @@
-# Pixeled
-A Custom os based on linux for fun 
+### Pixeled
+# A Dashboard with custom things 
